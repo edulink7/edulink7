@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I'm Eduardo Link
+
+- 🔭 I'm currently working at P3DMed creating applications focused on medical imaging (mostly using C++ for Desktop applications and NodeJS on the backend)
+- :rocket: I'm currently learning ReactJS and React-Native at [Rocketseat](https://github.com/Rocketseat) 
+- 🌱 There's nothing that can't be accomplished through technology and coding, it's just a matter of how long and how far you're willing to take it!
+- ⚡Fun fact: People call me "Link" as it is my actual last name! (not because of the video game character, though I really like [old] games)
 
 <!--
 **edulink7/edulink7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
